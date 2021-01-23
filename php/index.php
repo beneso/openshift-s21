@@ -1,3 +1,3 @@
 <?php
-echo "Cus pavus z PHP z S2I buildu.\n";
+echo "Hey there from a PHP s2i build.\n";
 ?>
